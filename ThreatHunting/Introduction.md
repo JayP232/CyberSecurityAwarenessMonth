@@ -30,7 +30,7 @@ The words "Threat Hunting" may sound like the first part of any response to an t
 
 Additionally, [Mokmokmok](https://tryhackme.com/p/Mokmokmok)  uses this awesome flowchart to show that even though the two are **inherintly different** they can achieve a common goal **improving a organisations security posture**
 
-![6a261c19e85bd2df416c81da97b8ea8a.png](:/2a3c5d9a9a1d4aeb85987b56db3f9089)
+![FlowChart](https://raw.githubusercontent.com/JayP232/CyberSecurityAwarenessMonth/main/ThreatHunting/assets/flow.png)
 
 # All about the mindset
 
@@ -81,6 +81,6 @@ That is a broad question with a length answer, at this stage a summary can be gi
 For this I would reccomended reading through section 5 of the TryHackMe room, here is the [link](https://tryhackme.com/room/introductiontothreathunting) it essentially uses [Att&clk Navitgator](https://mitre-attack.github.io/attack-navigator/) which as awesome resource !
 
 Example screenshot below:
-![aa40f7f1950d92eea319f204adb7bcfb.png](:/705496d91c2a4daa895643eea4ce17cf)
+![Att&ckMap](https://raw.githubusercontent.com/JayP232/CyberSecurityAwarenessMonth/main/ThreatHunting/assets/attack.png)
 
 End date: 28/09/2023 22:09
